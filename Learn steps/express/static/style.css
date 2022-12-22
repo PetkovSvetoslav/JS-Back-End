@@ -1,0 +1,36 @@
+body{
+    background-color:grey;
+}
+#content {
+    background-color: antiquewhite;
+    width: 980px;
+    margin: auto;
+}
+nav {
+    background-color: aquamarine;
+}
+nav ul {
+    list-style: none;
+}
+nav ul li {
+    display: inline-block;
+}
+nav a {
+    text-decoration: none;
+    color: white;
+}
+nav a:hover{
+    background-color: blueviolet;
+}
+#main {
+    padding: 23px;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+label span {
+    display: inline-block;
+    width: 60px;
+}

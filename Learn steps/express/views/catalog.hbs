@@ -1,0 +1,10 @@
+<h1>Catalog List</h1>
+{{#if products}}
+<ul>
+    {{#each products}}
+{{> productCard}}
+    {{/each}}
+</ul>
+{{else}}
+<p><i>No products yet. Check again later.</i></p>
+{{/if}}

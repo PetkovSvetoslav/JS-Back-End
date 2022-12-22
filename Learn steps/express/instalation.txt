@@ -1,0 +1,3 @@
+npm init -y/-g
+npm install express
+npm install express-handlebars
