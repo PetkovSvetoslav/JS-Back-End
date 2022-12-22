@@ -1,0 +1,26 @@
+[
+    {
+        "sn": "123",
+        "description": "Oil Filter",
+        "price": 49.90,
+        "qty": 30
+    },
+    {
+        "sn": "456",
+        "description": "Brake Fluid",
+        "price": 15.90,
+        "qty": 15
+    },
+    {
+        "sn": "789",
+        "description": "Headlight Bulb",
+        "price": 12.90,
+        "qty": 45
+    },
+    {
+        "sn": "556",
+        "description": "Air Freshener",
+        "price": 2.95,
+        "qty": 90
+    }
+]
